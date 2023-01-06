@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import Countries from './components/Countries/Countries';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 
 
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <Countries></Countries>
+      <Footer></Footer>
     </div>
   );
 }

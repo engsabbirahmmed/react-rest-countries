@@ -1,11 +1,11 @@
 nav a{
     text-decoration: none;
     margin: 5px;
-    padding: 5px;
+    padding: 10px 15px;
     color: black;
     font-weight: 700;
 }
 nav a:hover{
     background-color: #46B2E0;
-    border-radius: 5px;
+    border-radius: 10px;
 }
